@@ -1,3 +1,30 @@
+## 📑 Indice
+
+- [📋 Panoramica](#-panoramica)
+- [🎯 Setup in 4 Passi (15-30 minuti)](#-setup-in-4-passi-15-30-minuti)
+  - [✅ Passo 1: Installa Visual Studio Code](#-passo-1-installa-visual-studio-code)
+  - [✅ Passo 2: Installa Estensione ESP-IDF](#-passo-2-installa-estensione-esp-idf)
+  - [✅ Passo 3: Configurazione Automatica ESP-IDF](#-passo-3-configurazione-automatica-esp-idf)
+  - [✅ Passo 4: Test Installazione](#-passo-4-test-installazione)
+- [🎛️ Interfaccia VS Code ESP-IDF](#-interfaccia-vs-code-esp-idf)
+- [🔌 Setup Hardware](#-setup-hardware)
+- [🧪 Test Completo](#-test-completo)
+- [🏭 IoT ESP32 Modbus RTU - MQTT Bridge System](#-iot-esp32-modbus-rtu---mqtt-bridge-system)
+  - [🎯 Panoramica](#-panoramica-1)
+  - [🏗️ Architettura](#-architettura)
+- [⚡ Quick Start](#-quick-start)
+- [🔧 Installazione](#-installazione)
+- [📱 Configurazione ESP32](#-configurazione-esp32)
+- [⚙️ Config Service](#-config-service)
+  - [Dashboard Web](#dashboard-web)
+  - [API REST](#api-rest)
+- [🎮 Scrittura Modbus](#-scrittura-modbus)
+- [📊 Template System](#-template-system)
+- [📡 MQTT Topics](#-mqtt-topics)
+- [🔍 Monitoring](#-monitoring)
+- [📄 License](#-license)
+- [👥 Autori e Riconoscimenti](#-autori-e-riconoscimenti)
+
 # ESP32-C6 Development Environment Setup
 
 [![ESP-IDF](https://img.shields.io/badge/ESP--IDF-v5.4.1-blue)](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/windows-setup.html)
