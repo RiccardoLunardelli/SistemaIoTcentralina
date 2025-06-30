@@ -11,7 +11,7 @@
 - [🧪 Test Completo](#-test-completo)
 - [🏭 IoT ESP32 Modbus RTU - MQTT Bridge System](#-iot-esp32-modbus-rtu---mqtt-bridge-system)
   - [🎯 Panoramica](#-panoramica-1)
-  - [🏗️ Architettura](#user-content-architettura)
+  - [🏗️ Architettura](architettura)
 - [⚡ Quick Start](#-quick-start)
 - [🔧 Installazione](#-installazione)
 - [📱 Configurazione ESP32](#-configurazione-esp32)
@@ -174,7 +174,7 @@ Centraline Modbus ←→ ESP32C6 ←→ MQTT ←→ Kafka Bridge ←→ Dashboar
 - **🌐 Architettura scalabile**: Kafka-MQTT con Docker
 - **📱 Dashboard moderna**: Monitoraggio real-time e controllo
 
-## 🏗️ Architettura
+## Architettura
 
 ### Componenti del sistema
 
