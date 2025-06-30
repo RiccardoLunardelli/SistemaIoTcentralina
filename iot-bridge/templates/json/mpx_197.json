@@ -1,0 +1,2019 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "device": "mpx",
+    "slave_address": 197,
+    "baud_rate": 19200,
+    "template_id": "05f7a4e8-377a-818e-f239-ebacbd42cf22",
+    "total_registers": 392,
+    "total_commands": 7
+  },
+  "holding_registers": [
+    {
+      "address": 14,
+      "name": "Param1",
+      "register_type": "Register"
+    },
+    {
+      "address": 15,
+      "name": "Param2",
+      "register_type": "Register"
+    },
+    {
+      "address": 16,
+      "name": "Param3",
+      "register_type": "Register"
+    },
+    {
+      "address": 17,
+      "name": "Param4",
+      "register_type": "Register"
+    },
+    {
+      "address": 28,
+      "name": "Param5",
+      "register_type": "Register"
+    },
+    {
+      "address": 29,
+      "name": "Param6",
+      "register_type": "Register"
+    },
+    {
+      "address": 30,
+      "name": "Param7",
+      "register_type": "Register"
+    },
+    {
+      "address": 31,
+      "name": "Param8",
+      "register_type": "Register"
+    },
+    {
+      "address": 32,
+      "name": "Param9",
+      "register_type": "Register"
+    },
+    {
+      "address": 33,
+      "name": "Param10",
+      "register_type": "Register"
+    },
+    {
+      "address": 34,
+      "name": "Param11",
+      "register_type": "Register"
+    },
+    {
+      "address": 35,
+      "name": "Param12",
+      "register_type": "Register"
+    },
+    {
+      "address": 36,
+      "name": "Param13",
+      "register_type": "Register"
+    },
+    {
+      "address": 37,
+      "name": "Param14",
+      "register_type": "Register"
+    },
+    {
+      "address": 37,
+      "name": "Param15",
+      "register_type": "Register"
+    },
+    {
+      "address": 38,
+      "name": "Param16",
+      "register_type": "Register"
+    },
+    {
+      "address": 39,
+      "name": "Param17",
+      "register_type": "Register"
+    },
+    {
+      "address": 40,
+      "name": "Param18",
+      "register_type": "Register"
+    },
+    {
+      "address": 41,
+      "name": "Param19",
+      "register_type": "Register"
+    },
+    {
+      "address": 42,
+      "name": "Param20",
+      "register_type": "Register"
+    },
+    {
+      "address": 43,
+      "name": "Param21",
+      "register_type": "Register"
+    },
+    {
+      "address": 44,
+      "name": "Param22",
+      "register_type": "Register"
+    },
+    {
+      "address": 45,
+      "name": "Param23",
+      "register_type": "Register"
+    },
+    {
+      "address": 48,
+      "name": "Param24",
+      "register_type": "Register"
+    },
+    {
+      "address": 49,
+      "name": "Param25",
+      "register_type": "Register"
+    },
+    {
+      "address": 50,
+      "name": "Param26",
+      "register_type": "Register"
+    },
+    {
+      "address": 51,
+      "name": "Param27",
+      "register_type": "Register"
+    },
+    {
+      "address": 52,
+      "name": "Param28",
+      "register_type": "Register"
+    },
+    {
+      "address": 53,
+      "name": "Param29",
+      "register_type": "Register"
+    },
+    {
+      "address": 54,
+      "name": "Param30",
+      "register_type": "Register"
+    },
+    {
+      "address": 55,
+      "name": "Param31",
+      "register_type": "Register"
+    },
+    {
+      "address": 56,
+      "name": "Param32",
+      "register_type": "Register"
+    },
+    {
+      "address": 57,
+      "name": "Param33",
+      "register_type": "Register"
+    },
+    {
+      "address": 58,
+      "name": "Param34",
+      "register_type": "Register"
+    },
+    {
+      "address": 59,
+      "name": "Param35",
+      "register_type": "Register"
+    },
+    {
+      "address": 60,
+      "name": "Param36",
+      "register_type": "Register"
+    },
+    {
+      "address": 61,
+      "name": "Param37",
+      "register_type": "Register"
+    },
+    {
+      "address": 62,
+      "name": "Param38",
+      "register_type": "Register"
+    },
+    {
+      "address": 63,
+      "name": "Param39",
+      "register_type": "Register"
+    },
+    {
+      "address": 64,
+      "name": "Param40",
+      "register_type": "Register"
+    },
+    {
+      "address": 65,
+      "name": "Param41",
+      "register_type": "Register"
+    },
+    {
+      "address": 66,
+      "name": "Param42",
+      "register_type": "Register"
+    },
+    {
+      "address": 67,
+      "name": "Param43",
+      "register_type": "Register"
+    },
+    {
+      "address": 68,
+      "name": "Param44",
+      "register_type": "Register"
+    },
+    {
+      "address": 69,
+      "name": "Param45",
+      "register_type": "Register"
+    },
+    {
+      "address": 70,
+      "name": "Param46",
+      "register_type": "Register"
+    },
+    {
+      "address": 71,
+      "name": "Param47",
+      "register_type": "Register"
+    },
+    {
+      "address": 72,
+      "name": "Param48",
+      "register_type": "Register"
+    },
+    {
+      "address": 73,
+      "name": "Param49",
+      "register_type": "Register"
+    },
+    {
+      "address": 74,
+      "name": "Param50",
+      "register_type": "Register"
+    },
+    {
+      "address": 81,
+      "name": "Param51",
+      "register_type": "Register"
+    },
+    {
+      "address": 82,
+      "name": "Param52",
+      "register_type": "Register"
+    },
+    {
+      "address": 83,
+      "name": "Read1",
+      "register_type": "Register"
+    },
+    {
+      "address": 84,
+      "name": "Param53",
+      "register_type": "Register"
+    },
+    {
+      "address": 85,
+      "name": "Param54",
+      "register_type": "Register"
+    },
+    {
+      "address": 86,
+      "name": "Param55",
+      "register_type": "Register"
+    },
+    {
+      "address": 87,
+      "name": "Param56",
+      "register_type": "Register"
+    },
+    {
+      "address": 88,
+      "name": "Param57",
+      "register_type": "Register"
+    },
+    {
+      "address": 90,
+      "name": "Param58",
+      "register_type": "Register"
+    },
+    {
+      "address": 91,
+      "name": "Param59",
+      "register_type": "Register"
+    },
+    {
+      "address": 92,
+      "name": "Read2",
+      "register_type": "Register"
+    },
+    {
+      "address": 93,
+      "name": "Param60",
+      "register_type": "Register"
+    },
+    {
+      "address": 94,
+      "name": "Param61",
+      "register_type": "Register"
+    },
+    {
+      "address": 95,
+      "name": "Param62",
+      "register_type": "Register"
+    },
+    {
+      "address": 97,
+      "name": "Read3",
+      "register_type": "Register"
+    },
+    {
+      "address": 98,
+      "name": "Param63",
+      "register_type": "Register"
+    },
+    {
+      "address": 99,
+      "name": "Param64",
+      "register_type": "Register"
+    },
+    {
+      "address": 129,
+      "name": "Param65",
+      "register_type": "Register"
+    },
+    {
+      "address": 130,
+      "name": "Param70",
+      "register_type": "Register"
+    },
+    {
+      "address": 131,
+      "name": "Param67",
+      "register_type": "Register"
+    },
+    {
+      "address": 132,
+      "name": "Param68",
+      "register_type": "Register"
+    },
+    {
+      "address": 133,
+      "name": "Param69",
+      "register_type": "Register"
+    },
+    {
+      "address": 134,
+      "name": "Param66",
+      "register_type": "Register"
+    },
+    {
+      "address": 135,
+      "name": "Read4",
+      "register_type": "Register"
+    },
+    {
+      "address": 137,
+      "name": "Param71",
+      "register_type": "Register"
+    },
+    {
+      "address": 138,
+      "name": "Read5",
+      "register_type": "Register"
+    },
+    {
+      "address": 139,
+      "name": "Read6",
+      "register_type": "Register"
+    },
+    {
+      "address": 140,
+      "name": "Param72",
+      "register_type": "Register"
+    },
+    {
+      "address": 149,
+      "name": "Param73",
+      "register_type": "Register"
+    },
+    {
+      "address": 150,
+      "name": "Param74",
+      "register_type": "Register"
+    },
+    {
+      "address": 151,
+      "name": "Param75",
+      "register_type": "Register"
+    },
+    {
+      "address": 152,
+      "name": "Param76",
+      "register_type": "Register"
+    },
+    {
+      "address": 153,
+      "name": "Param77",
+      "register_type": "Register"
+    },
+    {
+      "address": 154,
+      "name": "Param78",
+      "register_type": "Register"
+    },
+    {
+      "address": 155,
+      "name": "Param79",
+      "register_type": "Register"
+    },
+    {
+      "address": 156,
+      "name": "Param80",
+      "register_type": "Register"
+    },
+    {
+      "address": 157,
+      "name": "Param81",
+      "register_type": "Register"
+    },
+    {
+      "address": 158,
+      "name": "Param82",
+      "register_type": "Register"
+    },
+    {
+      "address": 159,
+      "name": "Param83",
+      "register_type": "Register"
+    },
+    {
+      "address": 160,
+      "name": "Param84",
+      "register_type": "Register"
+    },
+    {
+      "address": 161,
+      "name": "Param85",
+      "register_type": "Register"
+    },
+    {
+      "address": 162,
+      "name": "Param86",
+      "register_type": "Register"
+    },
+    {
+      "address": 163,
+      "name": "Param87",
+      "register_type": "Register"
+    },
+    {
+      "address": 164,
+      "name": "Param88",
+      "register_type": "Register"
+    },
+    {
+      "address": 165,
+      "name": "Param89",
+      "register_type": "Register"
+    },
+    {
+      "address": 166,
+      "name": "Read7",
+      "register_type": "Register"
+    },
+    {
+      "address": 167,
+      "name": "Read8",
+      "register_type": "Register"
+    },
+    {
+      "address": 168,
+      "name": "Param90",
+      "register_type": "Register"
+    },
+    {
+      "address": 169,
+      "name": "Param91",
+      "register_type": "Register"
+    },
+    {
+      "address": 170,
+      "name": "Param92",
+      "register_type": "Register"
+    },
+    {
+      "address": 171,
+      "name": "Param93",
+      "register_type": "Register"
+    },
+    {
+      "address": 172,
+      "name": "Param94",
+      "register_type": "Register"
+    },
+    {
+      "address": 173,
+      "name": "Param95",
+      "register_type": "Register"
+    },
+    {
+      "address": 174,
+      "name": "Param96",
+      "register_type": "Register"
+    },
+    {
+      "address": 175,
+      "name": "Param97",
+      "register_type": "Register"
+    },
+    {
+      "address": 176,
+      "name": "Param98",
+      "register_type": "Register"
+    },
+    {
+      "address": 177,
+      "name": "Param99",
+      "register_type": "Register"
+    },
+    {
+      "address": 178,
+      "name": "Param100",
+      "register_type": "Register"
+    },
+    {
+      "address": 179,
+      "name": "Param101",
+      "register_type": "Register"
+    },
+    {
+      "address": 180,
+      "name": "Param102",
+      "register_type": "Register"
+    },
+    {
+      "address": 181,
+      "name": "Param103",
+      "register_type": "Register"
+    },
+    {
+      "address": 182,
+      "name": "Param104",
+      "register_type": "Register"
+    },
+    {
+      "address": 183,
+      "name": "Param105",
+      "register_type": "Register"
+    },
+    {
+      "address": 184,
+      "name": "Param106",
+      "register_type": "Register"
+    },
+    {
+      "address": 185,
+      "name": "Param107",
+      "register_type": "Register"
+    },
+    {
+      "address": 186,
+      "name": "Param108",
+      "register_type": "Register"
+    },
+    {
+      "address": 187,
+      "name": "Param109",
+      "register_type": "Register"
+    },
+    {
+      "address": 188,
+      "name": "Param110",
+      "register_type": "Register"
+    },
+    {
+      "address": 189,
+      "name": "Param111",
+      "register_type": "Register"
+    },
+    {
+      "address": 190,
+      "name": "Param112",
+      "register_type": "Register"
+    },
+    {
+      "address": 191,
+      "name": "Param113",
+      "register_type": "Register"
+    },
+    {
+      "address": 192,
+      "name": "Param114",
+      "register_type": "Register"
+    },
+    {
+      "address": 193,
+      "name": "Param115",
+      "register_type": "Register"
+    },
+    {
+      "address": 194,
+      "name": "Param116",
+      "register_type": "Register"
+    },
+    {
+      "address": 195,
+      "name": "Param117",
+      "register_type": "Register"
+    },
+    {
+      "address": 196,
+      "name": "Param118",
+      "register_type": "Register"
+    },
+    {
+      "address": 197,
+      "name": "Param119",
+      "register_type": "Register"
+    },
+    {
+      "address": 198,
+      "name": "Param120",
+      "register_type": "Register"
+    },
+    {
+      "address": 199,
+      "name": "Param121",
+      "register_type": "Register"
+    },
+    {
+      "address": 200,
+      "name": "Param122",
+      "register_type": "Register"
+    },
+    {
+      "address": 201,
+      "name": "Param123",
+      "register_type": "Register"
+    },
+    {
+      "address": 202,
+      "name": "Param124",
+      "register_type": "Register"
+    },
+    {
+      "address": 203,
+      "name": "Param125",
+      "register_type": "Register"
+    },
+    {
+      "address": 204,
+      "name": "Param126",
+      "register_type": "Register"
+    },
+    {
+      "address": 205,
+      "name": "Param127",
+      "register_type": "Register"
+    },
+    {
+      "address": 206,
+      "name": "Param128",
+      "register_type": "Register"
+    },
+    {
+      "address": 207,
+      "name": "Param129",
+      "register_type": "Register"
+    },
+    {
+      "address": 208,
+      "name": "Param130",
+      "register_type": "Register"
+    },
+    {
+      "address": 209,
+      "name": "Param131",
+      "register_type": "Register"
+    },
+    {
+      "address": 210,
+      "name": "Param132",
+      "register_type": "Register"
+    },
+    {
+      "address": 211,
+      "name": "Param133",
+      "register_type": "Register"
+    },
+    {
+      "address": 212,
+      "name": "Param134",
+      "register_type": "Register"
+    },
+    {
+      "address": 213,
+      "name": "Param135",
+      "register_type": "Register"
+    },
+    {
+      "address": 214,
+      "name": "Param136",
+      "register_type": "Register"
+    },
+    {
+      "address": 215,
+      "name": "Param137",
+      "register_type": "Register"
+    },
+    {
+      "address": 216,
+      "name": "Read9",
+      "register_type": "Register"
+    },
+    {
+      "address": 218,
+      "name": "Param138",
+      "register_type": "Register"
+    },
+    {
+      "address": 219,
+      "name": "Param139",
+      "register_type": "Register"
+    },
+    {
+      "address": 220,
+      "name": "Param140",
+      "register_type": "Register"
+    },
+    {
+      "address": 221,
+      "name": "Param141",
+      "register_type": "Register"
+    },
+    {
+      "address": 222,
+      "name": "Param142",
+      "register_type": "Register"
+    },
+    {
+      "address": 223,
+      "name": "Param143",
+      "register_type": "Register"
+    },
+    {
+      "address": 224,
+      "name": "Read11",
+      "register_type": "Register"
+    },
+    {
+      "address": 225,
+      "name": "Param144",
+      "register_type": "Register"
+    },
+    {
+      "address": 260,
+      "name": "Param145",
+      "register_type": "Register"
+    },
+    {
+      "address": 261,
+      "name": "Param146",
+      "register_type": "Register"
+    },
+    {
+      "address": 262,
+      "name": "Param147",
+      "register_type": "Register"
+    },
+    {
+      "address": 263,
+      "name": "Param148",
+      "register_type": "Register"
+    },
+    {
+      "address": 264,
+      "name": "Param149",
+      "register_type": "Register"
+    },
+    {
+      "address": 265,
+      "name": "Param150",
+      "register_type": "Register"
+    },
+    {
+      "address": 266,
+      "name": "Param151",
+      "register_type": "Register"
+    },
+    {
+      "address": 267,
+      "name": "Param152",
+      "register_type": "Register"
+    },
+    {
+      "address": 268,
+      "name": "Param153",
+      "register_type": "Register"
+    },
+    {
+      "address": 287,
+      "name": "Param154",
+      "register_type": "Register"
+    },
+    {
+      "address": 288,
+      "name": "Param155",
+      "register_type": "Register"
+    },
+    {
+      "address": 289,
+      "name": "Param156",
+      "register_type": "Register"
+    },
+    {
+      "address": 290,
+      "name": "Param157",
+      "register_type": "Register"
+    },
+    {
+      "address": 291,
+      "name": "Param158",
+      "register_type": "Register"
+    },
+    {
+      "address": 292,
+      "name": "Param159",
+      "register_type": "Register"
+    },
+    {
+      "address": 294,
+      "name": "Param160",
+      "register_type": "Register"
+    },
+    {
+      "address": 295,
+      "name": "Param161",
+      "register_type": "Register"
+    },
+    {
+      "address": 296,
+      "name": "Param162",
+      "register_type": "Register"
+    },
+    {
+      "address": 298,
+      "name": "Param163",
+      "register_type": "Register"
+    },
+    {
+      "address": 300,
+      "name": "Param164",
+      "register_type": "Register"
+    },
+    {
+      "address": 301,
+      "name": "Param165",
+      "register_type": "Register"
+    },
+    {
+      "address": 302,
+      "name": "Param166",
+      "register_type": "Register"
+    },
+    {
+      "address": 303,
+      "name": "Param167",
+      "register_type": "Register"
+    },
+    {
+      "address": 304,
+      "name": "Param168",
+      "register_type": "Register"
+    },
+    {
+      "address": 305,
+      "name": "Param169",
+      "register_type": "Register"
+    },
+    {
+      "address": 306,
+      "name": "Param170",
+      "register_type": "Register"
+    },
+    {
+      "address": 307,
+      "name": "Read90",
+      "register_type": "Register"
+    },
+    {
+      "address": 309,
+      "name": "Param171",
+      "register_type": "Register"
+    },
+    {
+      "address": 310,
+      "name": "Param172",
+      "register_type": "Register"
+    },
+    {
+      "address": 311,
+      "name": "Param173",
+      "register_type": "Register"
+    },
+    {
+      "address": 312,
+      "name": "Param174",
+      "register_type": "Register"
+    },
+    {
+      "address": 314,
+      "name": "Param175",
+      "register_type": "Register"
+    },
+    {
+      "address": 316,
+      "name": "Param176",
+      "register_type": "Register"
+    },
+    {
+      "address": 318,
+      "name": "Param177",
+      "register_type": "Register"
+    },
+    {
+      "address": 319,
+      "name": "Param178",
+      "register_type": "Register"
+    },
+    {
+      "address": 320,
+      "name": "Param179",
+      "register_type": "Register"
+    },
+    {
+      "address": 321,
+      "name": "Param180",
+      "register_type": "Register"
+    },
+    {
+      "address": 322,
+      "name": "Param181",
+      "register_type": "Register"
+    },
+    {
+      "address": 323,
+      "name": "Param182",
+      "register_type": "Register"
+    },
+    {
+      "address": 324,
+      "name": "Param183",
+      "register_type": "Register"
+    },
+    {
+      "address": 325,
+      "name": "Param184",
+      "register_type": "Register"
+    },
+    {
+      "address": 326,
+      "name": "Param185",
+      "register_type": "Register"
+    },
+    {
+      "address": 327,
+      "name": "Param186",
+      "register_type": "Register"
+    },
+    {
+      "address": 328,
+      "name": "Param187",
+      "register_type": "Register"
+    },
+    {
+      "address": 329,
+      "name": "Param188",
+      "register_type": "Register"
+    },
+    {
+      "address": 330,
+      "name": "Param189",
+      "register_type": "Register"
+    },
+    {
+      "address": 331,
+      "name": "Param190",
+      "register_type": "Register"
+    },
+    {
+      "address": 332,
+      "name": "Param191",
+      "register_type": "Register"
+    },
+    {
+      "address": 333,
+      "name": "Param192",
+      "register_type": "Register"
+    },
+    {
+      "address": 2000,
+      "name": "Read91",
+      "register_type": "Register"
+    },
+    {
+      "address": 2001,
+      "name": "Read92",
+      "register_type": "Register"
+    },
+    {
+      "address": 2002,
+      "name": "Read93",
+      "register_type": "Register"
+    },
+    {
+      "address": 2003,
+      "name": "Read94",
+      "register_type": "Register"
+    },
+    {
+      "address": 2004,
+      "name": "Read95",
+      "register_type": "Register"
+    },
+    {
+      "address": 2005,
+      "name": "Read96",
+      "register_type": "Register"
+    },
+    {
+      "address": 2006,
+      "name": "Read97",
+      "register_type": "Register"
+    },
+    {
+      "address": 2007,
+      "name": "Read98",
+      "register_type": "Register"
+    },
+    {
+      "address": 2008,
+      "name": "Read99",
+      "register_type": "Register"
+    },
+    {
+      "address": 2009,
+      "name": "Read100",
+      "register_type": "Register"
+    },
+    {
+      "address": 2010,
+      "name": "Read101",
+      "register_type": "Register"
+    },
+    {
+      "address": 2011,
+      "name": "Read102",
+      "register_type": "Register"
+    },
+    {
+      "address": 2012,
+      "name": "Read103",
+      "register_type": "Register"
+    },
+    {
+      "address": 2013,
+      "name": "Read104",
+      "register_type": "Register"
+    },
+    {
+      "address": 2014,
+      "name": "Read105",
+      "register_type": "Register"
+    },
+    {
+      "address": 2015,
+      "name": "Read106",
+      "register_type": "Register"
+    },
+    {
+      "address": 2016,
+      "name": "Read107",
+      "register_type": "Register"
+    },
+    {
+      "address": 2017,
+      "name": "Read108",
+      "register_type": "Register"
+    },
+    {
+      "address": 2018,
+      "name": "Read109",
+      "register_type": "Register"
+    },
+    {
+      "address": 2019,
+      "name": "Read110",
+      "register_type": "Register"
+    },
+    {
+      "address": 2020,
+      "name": "Read111",
+      "register_type": "Register"
+    },
+    {
+      "address": 2021,
+      "name": "Read112",
+      "register_type": "Register"
+    },
+    {
+      "address": 2022,
+      "name": "Read113",
+      "register_type": "Register"
+    },
+    {
+      "address": 2023,
+      "name": "Read114",
+      "register_type": "Register"
+    },
+    {
+      "address": 2024,
+      "name": "Read115",
+      "register_type": "Register"
+    },
+    {
+      "address": 2025,
+      "name": "Read116",
+      "register_type": "Register"
+    },
+    {
+      "address": 2026,
+      "name": "Read117",
+      "register_type": "Register"
+    },
+    {
+      "address": 2027,
+      "name": "Read118",
+      "register_type": "Register"
+    },
+    {
+      "address": 2028,
+      "name": "Read119",
+      "register_type": "Register"
+    },
+    {
+      "address": 2029,
+      "name": "Read120",
+      "register_type": "Register"
+    },
+    {
+      "address": 2029,
+      "name": "Param193",
+      "register_type": "Register"
+    },
+    {
+      "address": 2030,
+      "name": "Read121",
+      "register_type": "Register"
+    },
+    {
+      "address": 2030,
+      "name": "Param194",
+      "register_type": "Register"
+    },
+    {
+      "address": 2031,
+      "name": "Read122",
+      "register_type": "Register"
+    },
+    {
+      "address": 2031,
+      "name": "Param195",
+      "register_type": "Register"
+    },
+    {
+      "address": 2032,
+      "name": "Param196",
+      "register_type": "Register"
+    },
+    {
+      "address": 2033,
+      "name": "Param197",
+      "register_type": "Register"
+    },
+    {
+      "address": 2034,
+      "name": "Param198",
+      "register_type": "Register"
+    },
+    {
+      "address": 2035,
+      "name": "Param199",
+      "register_type": "Register"
+    },
+    {
+      "address": 2036,
+      "name": "Read123",
+      "register_type": "Register"
+    },
+    {
+      "address": 2036,
+      "name": "Param200",
+      "register_type": "Register"
+    },
+    {
+      "address": 2037,
+      "name": "Param201",
+      "register_type": "Register"
+    },
+    {
+      "address": 2057,
+      "name": "Param202",
+      "register_type": "Register"
+    }
+  ],
+  "coils": [
+    {
+      "address": 10,
+      "name": "Param203",
+      "register_type": "Coils"
+    },
+    {
+      "address": 65,
+      "name": "Param204",
+      "register_type": "Coils"
+    },
+    {
+      "address": 67,
+      "name": "Param205",
+      "register_type": "Coils"
+    },
+    {
+      "address": 70,
+      "name": "Param206",
+      "register_type": "Coils"
+    },
+    {
+      "address": 71,
+      "name": "Param207",
+      "register_type": "Coils"
+    },
+    {
+      "address": 82,
+      "name": "Param208",
+      "register_type": "Coils"
+    },
+    {
+      "address": 83,
+      "name": "Param209",
+      "register_type": "Coils"
+    },
+    {
+      "address": 84,
+      "name": "Param210",
+      "register_type": "Coils"
+    },
+    {
+      "address": 85,
+      "name": "Param211",
+      "register_type": "Coils"
+    },
+    {
+      "address": 86,
+      "name": "Param212",
+      "register_type": "Coils"
+    },
+    {
+      "address": 87,
+      "name": "Param213",
+      "register_type": "Coils"
+    },
+    {
+      "address": 88,
+      "name": "Param214",
+      "register_type": "Coils"
+    },
+    {
+      "address": 89,
+      "name": "Param215",
+      "register_type": "Coils"
+    },
+    {
+      "address": 90,
+      "name": "Param216",
+      "register_type": "Coils"
+    },
+    {
+      "address": 91,
+      "name": "Param217",
+      "register_type": "Coils"
+    },
+    {
+      "address": 92,
+      "name": "Param218",
+      "register_type": "Coils"
+    },
+    {
+      "address": 93,
+      "name": "Param219",
+      "register_type": "Coils"
+    },
+    {
+      "address": 94,
+      "name": "Param220",
+      "register_type": "Coils"
+    },
+    {
+      "address": 95,
+      "name": "Param221",
+      "register_type": "Coils"
+    },
+    {
+      "address": 96,
+      "name": "Param222",
+      "register_type": "Coils"
+    },
+    {
+      "address": 97,
+      "name": "Param223",
+      "register_type": "Coils"
+    },
+    {
+      "address": 98,
+      "name": "Param224",
+      "register_type": "Coils"
+    },
+    {
+      "address": 99,
+      "name": "Param225",
+      "register_type": "Coils"
+    },
+    {
+      "address": 100,
+      "name": "Param226",
+      "register_type": "Coils"
+    },
+    {
+      "address": 102,
+      "name": "Param227",
+      "register_type": "Coils"
+    },
+    {
+      "address": 103,
+      "name": "Param228",
+      "register_type": "Coils"
+    },
+    {
+      "address": 104,
+      "name": "Param229",
+      "register_type": "Coils"
+    },
+    {
+      "address": 107,
+      "name": "Param230",
+      "register_type": "Coils"
+    },
+    {
+      "address": 108,
+      "name": "Param231",
+      "register_type": "Coils"
+    },
+    {
+      "address": 109,
+      "name": "Param232",
+      "register_type": "Coils"
+    },
+    {
+      "address": 110,
+      "name": "Read216",
+      "register_type": "Coils"
+    },
+    {
+      "address": 110,
+      "name": "Param233",
+      "register_type": "Coils"
+    },
+    {
+      "address": 122,
+      "name": "Param234",
+      "register_type": "Coils"
+    },
+    {
+      "address": 123,
+      "name": "Param235",
+      "register_type": "Coils"
+    },
+    {
+      "address": 124,
+      "name": "Param236",
+      "register_type": "Coils"
+    },
+    {
+      "address": 126,
+      "name": "Param237",
+      "register_type": "Coils"
+    },
+    {
+      "address": 128,
+      "name": "Param238",
+      "register_type": "Coils"
+    },
+    {
+      "address": 129,
+      "name": "Param239",
+      "register_type": "Coils"
+    },
+    {
+      "address": 131,
+      "name": "Param240",
+      "register_type": "Coils"
+    },
+    {
+      "address": 132,
+      "name": "Param241",
+      "register_type": "Coils"
+    },
+    {
+      "address": 133,
+      "name": "Param242",
+      "register_type": "Coils"
+    },
+    {
+      "address": 134,
+      "name": "Param243",
+      "register_type": "Coils"
+    },
+    {
+      "address": 137,
+      "name": "Param244",
+      "register_type": "Coils"
+    },
+    {
+      "address": 139,
+      "name": "Param245",
+      "register_type": "Coils"
+    },
+    {
+      "address": 142,
+      "name": "Param246",
+      "register_type": "Coils"
+    },
+    {
+      "address": 144,
+      "name": "Param247",
+      "register_type": "Coils"
+    },
+    {
+      "address": 145,
+      "name": "Param248",
+      "register_type": "Coils"
+    },
+    {
+      "address": 146,
+      "name": "Param249",
+      "register_type": "Coils"
+    },
+    {
+      "address": 147,
+      "name": "Param250",
+      "register_type": "Coils"
+    },
+    {
+      "address": 148,
+      "name": "Param251",
+      "register_type": "Coils"
+    },
+    {
+      "address": 149,
+      "name": "Param252",
+      "register_type": "Coils"
+    },
+    {
+      "address": 150,
+      "name": "Param253",
+      "register_type": "Coils"
+    },
+    {
+      "address": 151,
+      "name": "Param254",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2000,
+      "name": "Read124",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2001,
+      "name": "Read125",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2002,
+      "name": "Read126",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2003,
+      "name": "Read127",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2004,
+      "name": "Read128",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2005,
+      "name": "Read129",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2006,
+      "name": "Read130",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2007,
+      "name": "Read131",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2008,
+      "name": "Read132",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2009,
+      "name": "Read133",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2010,
+      "name": "Read134",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2012,
+      "name": "Read135",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2013,
+      "name": "Read136",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2014,
+      "name": "Read137",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2015,
+      "name": "Read138",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2016,
+      "name": "Read139",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2017,
+      "name": "Read140",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2018,
+      "name": "Read141",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2019,
+      "name": "Read142",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2020,
+      "name": "Read143",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2021,
+      "name": "Read144",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2022,
+      "name": "Read145",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2023,
+      "name": "Read146",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2024,
+      "name": "Read147",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2025,
+      "name": "Read148",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2026,
+      "name": "Read149",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2027,
+      "name": "Read150",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2028,
+      "name": "Read151",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2029,
+      "name": "Read152",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2030,
+      "name": "Read153",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2031,
+      "name": "Read154",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2032,
+      "name": "Read155",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2033,
+      "name": "Read156",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2034,
+      "name": "Read157",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2035,
+      "name": "Read158",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2036,
+      "name": "Read159",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2037,
+      "name": "Read160",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2038,
+      "name": "Read161",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2039,
+      "name": "Read162",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2040,
+      "name": "Read163",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2041,
+      "name": "Read164",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2042,
+      "name": "Read165",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2043,
+      "name": "Read166",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2044,
+      "name": "Read167",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2045,
+      "name": "Read168",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2046,
+      "name": "Read169",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2047,
+      "name": "Read170",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2048,
+      "name": "Read171",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2049,
+      "name": "Read172",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2050,
+      "name": "Read173",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2051,
+      "name": "Read174",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2052,
+      "name": "Read175",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2053,
+      "name": "Read176",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2054,
+      "name": "Read177",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2055,
+      "name": "Read178",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2056,
+      "name": "Read179",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2057,
+      "name": "Read180",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2058,
+      "name": "Read181",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2061,
+      "name": "Read182",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2062,
+      "name": "Read183",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2063,
+      "name": "Read184",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2064,
+      "name": "Read185",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2065,
+      "name": "Read186",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2067,
+      "name": "Read187",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2069,
+      "name": "Read188",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2070,
+      "name": "Read189",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2071,
+      "name": "Read190",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2073,
+      "name": "Read191",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2074,
+      "name": "Read192",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2075,
+      "name": "Read193",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2076,
+      "name": "Read194",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2077,
+      "name": "Read195",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2082,
+      "name": "Read196",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2083,
+      "name": "Read197",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2084,
+      "name": "Read198",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2085,
+      "name": "Read199",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2086,
+      "name": "Read200",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2087,
+      "name": "Read201",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2088,
+      "name": "Read202",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2089,
+      "name": "Read203",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2090,
+      "name": "Read204",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2091,
+      "name": "Read205",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2092,
+      "name": "Read206",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2093,
+      "name": "Read207",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2094,
+      "name": "Read208",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2095,
+      "name": "Read209",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2104,
+      "name": "Read210",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2124,
+      "name": "Read211",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2128,
+      "name": "Read212",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2129,
+      "name": "Read213",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2130,
+      "name": "Read214",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2134,
+      "name": "Read215",
+      "register_type": "Coils"
+    },
+    {
+      "address": 2138,
+      "name": "Param255",
+      "register_type": "Coils"
+    }
+  ],
+  "commands": [
+    {
+      "address": 65,
+      "name": "Defrost",
+      "register_type": "Coils",
+      "value_command": 1
+    },
+    {
+      "address": 107,
+      "name": "DeviceON",
+      "register_type": "Coils",
+      "value_command": 0
+    },
+    {
+      "address": 107,
+      "name": "DeviceOFF",
+      "register_type": "Coils",
+      "value_command": 1
+    },
+    {
+      "address": 108,
+      "name": "LightON",
+      "register_type": "Coils",
+      "value_command": 1
+    },
+    {
+      "address": 108,
+      "name": "LightOFF",
+      "register_type": "Coils",
+      "value_command": 0
+    },
+    {
+      "address": 110,
+      "name": "ONDayNight",
+      "register_type": "Coils",
+      "value_command": 1
+    },
+    {
+      "address": 110,
+      "name": "OFFDayNight",
+      "register_type": "Coils",
+      "value_command": 0
+    }
+  ]
+}
