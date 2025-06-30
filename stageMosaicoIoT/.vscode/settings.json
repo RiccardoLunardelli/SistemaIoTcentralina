@@ -1,0 +1,20 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPath": "/home/soufian/esp/v5.4.1/esp-idf",
+  "idf.toolsPath": "/home/soufian/.espressif",
+  "idf.pythonInstallPath": "/home/soufian/.pyenv/shims/python",
+  "idf.openOcdConfigs": [
+    "board/esp32c6-builtin.cfg"
+  ],
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32c6"
+  },
+  "idf.flashType": "UART",
+  "idf.port": "/dev/ttyACM0",
+  "files.associations": {
+    "esp_modbus_common.h": "c",
+    "task.h": "c",
+    "gpio.h": "c",
+    "freertos.h": "c"
+  }
+}

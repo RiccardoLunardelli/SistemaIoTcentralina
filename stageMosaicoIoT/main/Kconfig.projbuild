@@ -1,0 +1,99 @@
+menu "Modbus Master Configuration"
+
+    config MB_UART_PORT_NUM
+        int "UART port number"
+        range 0 2 if IDF_TARGET_ESP32 || IDF_TARGET_ESP32S3
+        default 1 if IDF_TARGET_ESP32C6
+        range 0 1 if IDF_TARGET_ESP32C2 || IDF_TARGET_ESP32C3 || IDF_TARGET_ESP32C6 || IDF_TARGET_ESP32H2 || IDF_TARGET_ESP32C5 || IDF_TARGET_ESP32C61
+        range 0 2 if IDF_TARGET_ESP32S2
+        range 0 4 if IDF_TARGET_ESP32P4
+        help
+            UART communication port number for Modbus Master.
+
+    config MB_UART_BAUD_RATE
+        int "UART communication speed"
+        range 1200 115200
+        default 19200
+        help
+            UART communication speed for Modbus Master.
+
+    config MB_UART_RXD
+        int "UART RXD pin number"
+        range 0 48 if IDF_TARGET_ESP32C6
+        default 5 if IDF_TARGET_ESP32C6
+        help
+            GPIO number for UART RX pin.
+
+    config MB_UART_TXD
+        int "UART TXD pin number" 
+        range 0 48 if IDF_TARGET_ESP32C6
+        default 4 if IDF_TARGET_ESP32C6
+        help
+            GPIO number for UART TX pin.
+
+    config MB_UART_RTS
+        int "UART RTS pin number"
+        range 0 48 if IDF_TARGET_ESP32C6  
+        default 2 if IDF_TARGET_ESP32C6
+        help
+            GPIO number for UART RTS pin. Used for RS485 direction control.
+
+    choice MB_COMM_MODE
+        prompt "Modbus communication mode"
+        default MB_COMM_MODE_RTU if CONFIG_FMB_COMM_MODE_RTU_EN
+        help
+            Selection of Modbus communication mode option for Master.
+
+        config MB_COMM_MODE_RTU
+            bool "RTU mode"
+            depends on FMB_COMM_MODE_RTU_EN
+
+        config MB_COMM_MODE_ASCII
+            bool "ASCII mode"
+            depends on FMB_COMM_MODE_ASCII_EN
+
+    endchoice
+
+    config MB_SLAVE_ADDR
+        int "Modbus slave address"
+        range 1 247
+        default 197
+        help
+            Modbus slave address for communication.
+
+endmenu
+
+menu "DEVICE WiFi Configuration"
+
+    config DEVICE_AP_SSID
+        string "Access Point SSID"
+        default "DEVICE-CONFIG"
+        help
+            SSID for the configuration Access Point.
+
+    config DEVICE_AP_PASSWORD
+        string "Access Point Password"
+        default "mosaico123"
+        help
+            Password for the configuration Access Point.
+
+    config DEVICE_CONFIG_TIMEOUT
+        int "Configuration timeout (seconds)"
+        range 60 1800
+        default 300
+        help
+            Time in seconds to wait for user configuration before fallback.
+
+    config DEVICE_DEFAULT_API_HOST
+        string "Default API Host"
+        default "192.168.1.100"
+        help
+            Default API server host address.
+
+    config DEVICE_DEFAULT_API_PORT
+        string "Default API Port"
+        default "5000"
+        help
+            Default API server port.
+
+endmenu

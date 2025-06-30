@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/soufian/Desktop/esbi/stageMosaicoIoT/build/CMakeFiles/bootloader
+/home/soufian/Desktop/esbi/stageMosaicoIoT/build/CMakeFiles/bootloader.rule
+/home/soufian/Desktop/esbi/stageMosaicoIoT/build/CMakeFiles/bootloader-complete.rule
+/home/soufian/Desktop/esbi/stageMosaicoIoT/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/soufian/Desktop/esbi/stageMosaicoIoT/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/soufian/Desktop/esbi/stageMosaicoIoT/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/soufian/Desktop/esbi/stageMosaicoIoT/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/soufian/Desktop/esbi/stageMosaicoIoT/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/soufian/Desktop/esbi/stageMosaicoIoT/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/soufian/Desktop/esbi/stageMosaicoIoT/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
