@@ -15,7 +15,7 @@
 - [⚡ Quick Start](#-quick-start)
 - [🔧 Installazione](#-installazione)
 - [📱 Configurazione ESP32](#-configurazione-esp32)
-- [⚙️ Config Service](#-config-service)
+- [⚙️ Config Service](#config-service)
   - [Dashboard Web](#dashboard-web)
   - [API REST](#api-rest)
 - [🎮 Scrittura Modbus](#-scrittura-modbus)
@@ -359,7 +359,7 @@ device/write/{device_id}/response
 device/write/{device_id}/error
 ```
 
-## ⚙️ Config Service
+## Config Service
 
 ### Dashboard Web
 
