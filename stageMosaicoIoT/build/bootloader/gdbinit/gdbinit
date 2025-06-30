@@ -1,0 +1,2 @@
+source /home/soufian/Desktop/esbi/stageMosaicoIoT/build/bootloader/gdbinit/symbols
+source /home/soufian/Desktop/esbi/stageMosaicoIoT/build/bootloader/gdbinit/connect

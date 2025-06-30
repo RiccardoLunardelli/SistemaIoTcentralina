@@ -541,8 +541,6 @@ class ExtendedConfigService:
         # Valida valore (coil: 0 o 1)
         try:
             value = int(payload['value'])
-            if value not in [0, 1]:
-                return False, "Valore coil deve essere 0 o 1"
         except (ValueError, TypeError):
             return False, "Valore coil deve essere un numero intero (0 o 1)"
         
@@ -575,8 +573,6 @@ class ExtendedConfigService:
         # Valida value_command (solitamente 0 o 1)
         try:
             value_command = int(payload['value_command'])
-            if value_command not in [0, 1]:
-                return False, "value_command deve essere 0 o 1"
         except (ValueError, TypeError):
             return False, "value_command deve essere un numero intero (0 o 1)"
         
