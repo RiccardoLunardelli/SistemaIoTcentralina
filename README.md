@@ -87,7 +87,7 @@ sudo snap install --classic code
 
 **🎉 Se il build completa senza errori, sei pronto!**
 
-## 🎛️ Interfaccia VS Code ESP-IDF
+## Interfaccia VS Code ESP-IDF
 
 ### Barra Inferiore (Status Bar)
 ```
