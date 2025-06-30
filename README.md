@@ -6,7 +6,7 @@
   - [✅ Passo 2: Installa Estensione ESP-IDF](#-passo-2-installa-estensione-esp-idf)
   - [✅ Passo 3: Configurazione Automatica ESP-IDF](#-passo-3-configurazione-automatica-esp-idf)
   - [✅ Passo 4: Test Installazione](#-passo-4-test-installazione)
-- [🎛️ Interfaccia VS Code ESP-IDF](#-interfaccia-vs-code-esp-idf)
+- [🎛️ Interfaccia VS Code ESP-IDF](#interfaccia-vs-code-esp-idf)
 - [🔌 Setup Hardware](#-setup-hardware)
 - [🧪 Test Completo](#-test-completo)
 - [🏭 IoT ESP32 Modbus RTU - MQTT Bridge System](#-iot-esp32-modbus-rtu---mqtt-bridge-system)
