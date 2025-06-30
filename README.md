@@ -11,7 +11,7 @@
 - [🧪 Test Completo](#-test-completo)
 - [🏭 IoT ESP32 Modbus RTU - MQTT Bridge System](#-iot-esp32-modbus-rtu---mqtt-bridge-system)
   - [🎯 Panoramica](#-panoramica-1)
-  - [🏗️ Architettura](architettura)
+  - [🏗️ Architettura](#architettura)
 - [⚡ Quick Start](#-quick-start)
 - [🔧 Installazione](#-installazione)
 - [📱 Configurazione ESP32](#-configurazione-esp32)
