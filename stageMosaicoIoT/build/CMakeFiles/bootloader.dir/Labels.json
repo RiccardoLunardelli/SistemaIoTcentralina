@@ -2,34 +2,34 @@
 	"sources" : 
 	[
 		{
-			"file" : "/home/soufian/Desktop/esbi/stageMosaicoIoT/build/CMakeFiles/bootloader"
+			"file" : "/home/riccardo/Scrivania/Progetti/SistemaIoTcentralina/esp32c6_mosaico/stageMosaicoIoT/build/CMakeFiles/bootloader"
 		},
 		{
-			"file" : "/home/soufian/Desktop/esbi/stageMosaicoIoT/build/CMakeFiles/bootloader.rule"
+			"file" : "/home/riccardo/Scrivania/Progetti/SistemaIoTcentralina/esp32c6_mosaico/stageMosaicoIoT/build/CMakeFiles/bootloader.rule"
 		},
 		{
-			"file" : "/home/soufian/Desktop/esbi/stageMosaicoIoT/build/CMakeFiles/bootloader-complete.rule"
+			"file" : "/home/riccardo/Scrivania/Progetti/SistemaIoTcentralina/esp32c6_mosaico/stageMosaicoIoT/build/CMakeFiles/bootloader-complete.rule"
 		},
 		{
-			"file" : "/home/soufian/Desktop/esbi/stageMosaicoIoT/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+			"file" : "/home/riccardo/Scrivania/Progetti/SistemaIoTcentralina/esp32c6_mosaico/stageMosaicoIoT/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
 		},
 		{
-			"file" : "/home/soufian/Desktop/esbi/stageMosaicoIoT/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+			"file" : "/home/riccardo/Scrivania/Progetti/SistemaIoTcentralina/esp32c6_mosaico/stageMosaicoIoT/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
 		},
 		{
-			"file" : "/home/soufian/Desktop/esbi/stageMosaicoIoT/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+			"file" : "/home/riccardo/Scrivania/Progetti/SistemaIoTcentralina/esp32c6_mosaico/stageMosaicoIoT/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
 		},
 		{
-			"file" : "/home/soufian/Desktop/esbi/stageMosaicoIoT/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+			"file" : "/home/riccardo/Scrivania/Progetti/SistemaIoTcentralina/esp32c6_mosaico/stageMosaicoIoT/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
 		},
 		{
-			"file" : "/home/soufian/Desktop/esbi/stageMosaicoIoT/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+			"file" : "/home/riccardo/Scrivania/Progetti/SistemaIoTcentralina/esp32c6_mosaico/stageMosaicoIoT/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
 		},
 		{
-			"file" : "/home/soufian/Desktop/esbi/stageMosaicoIoT/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+			"file" : "/home/riccardo/Scrivania/Progetti/SistemaIoTcentralina/esp32c6_mosaico/stageMosaicoIoT/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
 		},
 		{
-			"file" : "/home/soufian/Desktop/esbi/stageMosaicoIoT/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+			"file" : "/home/riccardo/Scrivania/Progetti/SistemaIoTcentralina/esp32c6_mosaico/stageMosaicoIoT/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
 		}
 	],
 	"target" : 

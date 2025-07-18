@@ -1,4 +1,4 @@
-/* * Data converted from /home/soufian/Desktop/esbi/stageMosaicoIoT/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from /home/riccardo/Scrivania/Progetti/SistemaIoTcentralina/esp32c6_mosaico/stageMosaicoIoT/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 #if !defined (__APPLE__) && !defined (__linux__)

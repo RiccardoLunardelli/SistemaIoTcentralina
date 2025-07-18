@@ -1,4 +1,4 @@
 {
-    "idf.pythonInstallPath": "/home/soufian/.pyenv/shims/python",
+    "idf.pythonInstallPath": "/usr/bin/python3",
     "idf.port": "/dev/ttyACM0"
 }

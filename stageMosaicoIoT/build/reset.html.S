@@ -1,4 +1,4 @@
-/* * Data converted from /home/soufian/Desktop/esbi/stageMosaicoIoT/spiffs_data/reset.html
+/* * Data converted from /home/riccardo/Scrivania/Progetti/SistemaIoTcentralina/esp32c6_mosaico/stageMosaicoIoT/spiffs_data/reset.html
  */
 .data
 #if !defined (__APPLE__) && !defined (__linux__)

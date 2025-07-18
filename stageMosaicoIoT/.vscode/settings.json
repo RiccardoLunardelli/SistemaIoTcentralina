@@ -1,8 +1,8 @@
 {
   "C_Cpp.intelliSenseEngine": "default",
-  "idf.espIdfPath": "/home/soufian/esp/v5.4.1/esp-idf",
-  "idf.toolsPath": "/home/soufian/.espressif",
-  "idf.pythonInstallPath": "/home/soufian/.pyenv/shims/python",
+  "idf.espIdfPath": "/home/riccardo/esp/esp-idf",
+  "idf.toolsPath": "/home/riccardo/.espressif",
+  "idf.pythonInstallPath": "/usr/bin/python3",
   "idf.openOcdConfigs": [
     "board/esp32c6-builtin.cfg"
   ],

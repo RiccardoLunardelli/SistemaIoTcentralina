@@ -1,2 +1,2 @@
-source /home/soufian/Desktop/esbi/stageMosaicoIoT/build/bootloader/gdbinit/symbols
-source /home/soufian/Desktop/esbi/stageMosaicoIoT/build/bootloader/gdbinit/connect
+source /home/riccardo/Scrivania/Progetti/SistemaIoTcentralina/esp32c6_mosaico/stageMosaicoIoT/build/bootloader/gdbinit/symbols
+source /home/riccardo/Scrivania/Progetti/SistemaIoTcentralina/esp32c6_mosaico/stageMosaicoIoT/build/bootloader/gdbinit/connect
